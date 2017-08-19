@@ -1,3 +1,3 @@
 # Laravel-theme
 
-Basic themer with bootstrap. Thereme include full and sidebar page.
+Basic theme with bootstrap. Theme includes full and sidebar page.
