@@ -1,1 +1,1 @@
-<div id="copyright text-right">© Copyright {{date("Y")}} Pedro Santana</div>
+<div id="copyright text-right">© Copyright {{date("Y")}} Lorem ipsum ui kthe</div>

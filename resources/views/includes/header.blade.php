@@ -2,7 +2,7 @@
     <div class="container-fluid">
     <div class="col-md-12">
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href="#">WebSiteName</a>
+	      <a class="navbar-brand" href="{!! url('/'); !!}">WebSiteName</a>
 	    </div>
 	    
 	        <ul class="nav navbar-nav navbar-right">
